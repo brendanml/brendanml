@@ -1,6 +1,6 @@
 # Hi, I'm Brendan.
 
-<p>EXTRA passionate web developer. React up front, Express in the back.</p>
+<p>Full stack web developer. React up front, Express in the back.</p>
 <p>During my undergrad I specialized in aritificial intelligence and machine learning.</p>
 
 # My Primary Development Stack
