@@ -1,7 +1,7 @@
 # Hi, I'm Brendan
 
-Full stack developer specializing in React, Express, Mongo, and everything Node.
-Strong focus on machine learning and data during my undergraduate at the University of Victoria
+<p>Full stack developer specializing in React, Express, Mongo, and everything Node.</p>
+<p>Strong focus on machine learning and data during my undergraduate at the University of Victoria.</p>
 
 # Languages, Libraries, Frameworks, and other Tools
 <div>
