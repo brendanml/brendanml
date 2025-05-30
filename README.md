@@ -3,7 +3,7 @@
 <p>Full stack web developer. React up front, Express in the back.</p>
 <p>During my undergrad I specialized in aritificial intelligence and machine learning.</p>
 
-# My Primary Development Stack
+# Web Development Stack
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
